@@ -1,6 +1,42 @@
 [
     {
-        "questions": "No questions available",
-        "Company": "No company available"
+        "questions": "Q2: A pnp transistor with its base connected to a voltage source, the V source is connected to a +10V source. The emitter of the transistor is connected to a resistance, and then to the same +10V source. The collector side is connected to a capacitor, which is not charged at t=0-. \r\n\r\nGiven the graph of Vsource = 10 V stepping up at t = 0 to further, draw the graph of Vout. Vout is between the point of collector and capacitor. \r\n",
+        "company": ""
+    },
+    {
+        "questions": "Draw the circuit for an active low-pass filter. ",
+        "company": ""
+    },
+    {
+        "questions": "How do you represent a real-world quantity in a digital system?",
+        "company": ""
+    },
+    {
+        "questions": "If a conveyor motor trips out, how do you diagnose it? ",
+        "company": ""
+    },
+    {
+        "questions": "Why railway industry? Why Network Rail? How do you develop the professional relationship and how do you feel before during and after?",
+        "company": ""
+    },
+    {
+        "questions": "Q: What does a capacitor look like at high frequency?",
+        "company": ""
+    },
+    {
+        "questions": "A boat is in a swimming pool and there is a rock in the boat. What happens to the level of water if the rock is thrown out of the boat?",
+        "company": ""
+    },
+    {
+        "questions": "what is your marks (%age) in last semester?",
+        "company": ""
+    },
+    {
+        "questions": "How would you know if an electric motor is bad without connecting to power?",
+        "company": ""
+    },
+    {
+        "questions": "What represents P, in P=IV",
+        "company": ""
     }
 ]

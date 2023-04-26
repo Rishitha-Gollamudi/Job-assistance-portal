@@ -29,13 +29,18 @@ def json_reading(file_path):
     tree_dict = json.loads(json_str)
     return dict_to_tree(tree_dict)
 
-# save_json('job_tree.pickle',"tree.json")
-# root = json_reading("tree.json")
+save_json('job_tree.pickle',"tree.json") ##save tree to Json
+root = json_reading("tree.json") ##read Json and convert to tree
 
-with open('job_tree.pickle', 'rb') as f:
-    job_tree = pickle.load(f)
-print(job_tree.root.children)
-job_tree.root.children[-1].children[-4].children[0].data = job_tree.root.children[2].children[-4].children[0].data
-print(job_tree.root.children[5].children[-4].children[0].data )
-for i in range(6):
-   print(job_tree.root.children[-1].children[-4].children[0].data)
+
+
+
+
+
+# with open('job_tree.pickle', 'rb') as f:
+#     job_tree = pickle.load(f)
+# print(job_tree.root.children)
+# job_tree.root.children[-1].children[-4].children[0].data = job_tree.root.children[2].children[-4].children[0].data
+# print(job_tree.root.children[5].children[-4].children[0].data )
+# for i in range(6):
+#    print(job_tree.root.children[-1].children[-4].children[0].data)
