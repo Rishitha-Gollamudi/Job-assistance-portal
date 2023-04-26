@@ -1,0 +1,39 @@
+{
+    "status": "OK",
+    "request_id": "a893935b-3810-43b8-b75b-3c66c866ed48",
+    "data": [
+        {
+            "location": "San Diego, CA",
+            "job_title": "Machine Learning Engineer",
+            "publisher_name": "Indeed",
+            "publisher_link": "https://www.indeed.com/cmp/Qualcomm/salaries/Machine-Learning-Engineer/San-Diego-CA",
+            "min_salary": 75000,
+            "max_salary": 240000,
+            "median_salary": 148764.97,
+            "salary_period": "YEAR",
+            "salary_currency": "USD"
+        },
+        {
+            "location": "San Diego, CA",
+            "job_title": "Machine Learning Engineer",
+            "publisher_name": "Glassdoor",
+            "publisher_link": "https://www.glassdoor.co.in/Salary/Qualcomm-Machine-Learning-Engineer-San-Diego-Salaries-EJI_IE640.0,8_KO9,34_IL.35,44_IM758.htm",
+            "min_salary": 143644,
+            "max_salary": 143644,
+            "median_salary": 143644,
+            "salary_period": "YEAR",
+            "salary_currency": "USD"
+        },
+        {
+            "location": "San Diego, CA",
+            "job_title": "Senior Machine Learning Engineer",
+            "publisher_name": "Salary.com",
+            "publisher_link": "https://www.salary.com/research/company/playstation/senior-machine-learning-engineer-salary?cjid=4184368",
+            "min_salary": 140458.93197447,
+            "max_salary": 173848.00791096,
+            "median_salary": 158813.77663604,
+            "salary_period": "YEAR",
+            "salary_currency": "USD"
+        }
+    ]
+}

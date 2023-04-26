@@ -1,0 +1,39 @@
+{
+    "status": "OK",
+    "request_id": "952d02c9-5132-4f6b-812c-ebf62771b693",
+    "data": [
+        {
+            "location": "Tempe, AZ",
+            "job_title": "Software Engineer",
+            "publisher_name": "Indeed",
+            "publisher_link": "https://www.indeed.com/cmp/Mufg/salaries/Software-Engineer/Tempe-AZ",
+            "min_salary": 49000,
+            "max_salary": 156000,
+            "median_salary": 98218.09,
+            "salary_period": "YEAR",
+            "salary_currency": "USD"
+        },
+        {
+            "location": "Tempe, AZ",
+            "job_title": "Amazon Software Engineer",
+            "publisher_name": "ZipRecruiter",
+            "publisher_link": "https://www.ziprecruiter.com/Salaries/Amazon-Software-Engineer-Salary-in-Tempe,AZ",
+            "min_salary": 38715,
+            "max_salary": 156296,
+            "median_salary": 99777,
+            "salary_period": "YEAR",
+            "salary_currency": "USD"
+        },
+        {
+            "location": "Tempe, AZ",
+            "job_title": "Software Engineer I",
+            "publisher_name": "Salary.com",
+            "publisher_link": "https://www.salary.com/research/salary/benchmark/software-engineer-i-salary/tempe-az",
+            "min_salary": 62943,
+            "max_salary": 89083,
+            "median_salary": 74879,
+            "salary_period": "YEAR",
+            "salary_currency": "USD"
+        }
+    ]
+}

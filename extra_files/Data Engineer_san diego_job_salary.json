@@ -1,0 +1,39 @@
+{
+    "status": "OK",
+    "request_id": "dba367d0-e2bd-486f-8b2b-4bfce908504f",
+    "data": [
+        {
+            "location": "San Diego, CA",
+            "job_title": "Data Engineer",
+            "publisher_name": "Indeed",
+            "publisher_link": "https://www.indeed.com/cmp/Intuit/salaries/Data-Engineer/San-Diego-CA",
+            "min_salary": 135310.58,
+            "max_salary": 162954.69,
+            "median_salary": 145495.25,
+            "salary_period": "YEAR",
+            "salary_currency": "USD"
+        },
+        {
+            "location": "San Diego, CA",
+            "job_title": "Data Engineer",
+            "publisher_name": "Glassdoor",
+            "publisher_link": "https://www.glassdoor.com/Salary/Meta-Data-Engineer-San-Diego-Salaries-EJI_IE40772.0,4_KO5,18_IL.19,28_IM758.htm",
+            "min_salary": 103950,
+            "max_salary": 154692,
+            "median_salary": 126808,
+            "salary_period": "YEAR",
+            "salary_currency": "USD"
+        },
+        {
+            "location": "San Diego, CA",
+            "job_title": "Data Engineer",
+            "publisher_name": "Payscale",
+            "publisher_link": "https://www.payscale.com/research/US/Job=Data_Engineer/Salary/d235dec0/San-Diego-CA",
+            "min_salary": 80202.7,
+            "max_salary": 135926.54,
+            "median_salary": 108286.72,
+            "salary_period": "YEAR",
+            "salary_currency": "USD"
+        }
+    ]
+}

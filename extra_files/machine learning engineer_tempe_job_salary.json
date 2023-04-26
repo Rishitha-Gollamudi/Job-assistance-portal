@@ -1,0 +1,39 @@
+{
+    "status": "OK",
+    "request_id": "d75e84c7-e06a-4440-870d-edabcdf0dfbe",
+    "data": [
+        {
+            "location": "Phoenix, AZ",
+            "job_title": "Data Engineer",
+            "publisher_name": "Indeed",
+            "publisher_link": "https://www.indeed.com/cmp/Starbucks/salaries/Data-Engineer/Phoenix-AZ",
+            "min_salary": 53708.25,
+            "max_salary": 64680.902,
+            "median_salary": 57750.805,
+            "salary_period": "YEAR",
+            "salary_currency": "USD"
+        },
+        {
+            "location": "Phoenix, AZ",
+            "job_title": "Machine Learning Engineer",
+            "publisher_name": "Glassdoor",
+            "publisher_link": "https://www.glassdoor.co.in/Salary/General-Dynamics-Mission-Systems-Machine-Learning-Engineer-Phoenix-Salaries-EJI_IE941740.0,32_KO33,58_IL.59,66_IM678.htm",
+            "min_salary": 106686,
+            "max_salary": 111000,
+            "median_salary": 108843,
+            "salary_period": "YEAR",
+            "salary_currency": "USD"
+        },
+        {
+            "location": "Tempe, AZ",
+            "job_title": "Data Scientist",
+            "publisher_name": "Salary.com",
+            "publisher_link": "https://www.salary.com/research/company/federal-government-jobs/data-scientist-salary?cjid=18043115",
+            "min_salary": 86452.92337396,
+            "max_salary": 102720.23503006,
+            "median_salary": 94655.93506408,
+            "salary_period": "YEAR",
+            "salary_currency": "USD"
+        }
+    ]
+}
