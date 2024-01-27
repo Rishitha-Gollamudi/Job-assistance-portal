@@ -1,4 +1,4 @@
-# SI507-housing-assistance-portal
+# SI507-job-assistance-portal
 This is a website where users can search for a job role in a location. Job postings along with the popular interview questions and salary statistics will be provided upon a search.
 
 ## Python Packages to be installed separately
